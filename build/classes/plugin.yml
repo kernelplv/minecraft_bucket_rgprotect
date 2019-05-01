@@ -1,0 +1,8 @@
+name: RGPROTECT
+main: rgprotect.rgprotect
+description: Кто сломал блок!?
+version: 0.1
+commands:
+  rg:
+      description: Версия
+softdepend: [WorldGuard]
